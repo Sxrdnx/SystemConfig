@@ -1,0 +1,11 @@
+{
+	"python.linting.pylintPath": "~/anaconda3/bin/pylint",
+"python.linting.enabled": true,
+"languageserver": {
+      "kotlin": {
+            "command": "lps/kotlin/server/bin/kotlin-language-server",
+            "filetypes": ["kotlin"],
+        }
+    }
+} 
+
